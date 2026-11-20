@@ -1,0 +1,32 @@
+[
+    {
+        "model": "cinema.filme",
+        "pk": 1,
+        "fields": {
+            "nome": "Interestelar",
+            "sinopse": "Um grupo de astronautas viaja pelo espaço em busca de um novo lar para a humanidade.",
+            "preco": "29.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp"
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 2,
+        "fields": {
+            "nome": "O Senhor dos Anéis",
+            "sinopse": "Um hobbit recebe a missão de destruir um poderoso anel.",
+            "preco": "24.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp"
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 3,
+        "fields": {
+            "nome": "Panico",
+            "sinopse": "Uma série de assassinatos começa a aterrorizar uma pequena cidade.",
+            "preco": "19.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp"
+        }
+    }
+]

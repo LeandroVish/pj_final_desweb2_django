@@ -7,7 +7,7 @@ from .models import Filme
 class FilmeSerializer(serializers.ModelSerializer):
     class Meta:
         model = Filme
-        fields = ("id", "nome", "sinopse", "preco", "imagem")
+        fields = ("id", "nome", "sinopse", "preco", "imagem", "classificacao", "duracao",)
 
     def validate_nome(self, value):
         nome_limpo = value.strip()

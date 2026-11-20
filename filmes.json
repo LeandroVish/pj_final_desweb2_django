@@ -6,7 +6,9 @@
             "nome": "Interestelar",
             "sinopse": "Um grupo de astronautas viaja pelo espaço em busca de um novo lar para a humanidade.",
             "preco": "29.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp"
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "10",
+            "duracao": 169
         }
     },
     {
@@ -16,7 +18,9 @@
             "nome": "O Senhor dos Anéis",
             "sinopse": "Um hobbit recebe a missão de destruir um poderoso anel.",
             "preco": "24.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp"
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "12",
+            "duracao": 178
         }
     },
     {
@@ -26,7 +30,213 @@
             "nome": "Panico",
             "sinopse": "Uma série de assassinatos começa a aterrorizar uma pequena cidade.",
             "preco": "19.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp"
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "18",
+            "duracao": 111
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 4,
+        "fields": {
+            "nome": "Homem-Aranha",
+            "sinopse": "Um jovem ganha poderes extraordinários após ser picado por uma aranha.",
+            "preco": "22.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "10",
+            "duracao": 121
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 5,
+        "fields": {
+            "nome": "Batman",
+            "sinopse": "Um herói mascarado combate o crime em uma cidade dominada pela corrupção.",
+            "preco": "25.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "12",
+            "duracao": 176
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 6,
+        "fields": {
+            "nome": "Jurassic Park",
+            "sinopse": "Um parque com dinossauros recriados geneticamente perde o controle de suas criaturas.",
+            "preco": "21.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "10",
+            "duracao": 127
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 7,
+        "fields": {
+            "nome": "Matrix",
+            "sinopse": "Um homem descobre que a realidade em que vive é uma elaborada simulação.",
+            "preco": "23.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "12",
+            "duracao": 136
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 8,
+        "fields": {
+            "nome": "Avatar",
+            "sinopse": "Um ex-fuzileiro participa de uma missão em um planeta habitado por uma espécie alienígena.",
+            "preco": "27.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "12",
+            "duracao": 162
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 9,
+        "fields": {
+            "nome": "O Rei Leão",
+            "sinopse": "Um jovem leão precisa assumir seu lugar como rei após uma grande tragédia.",
+            "preco": "18.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "L",
+            "duracao": 118
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 10,
+        "fields": {
+            "nome": "Toy Story",
+            "sinopse": "Brinquedos ganham vida quando seus donos não estão por perto.",
+            "preco": "17.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "L",
+            "duracao": 81
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 11,
+        "fields": {
+            "nome": "Vingadores",
+            "sinopse": "Um grupo de heróis se une para enfrentar uma ameaça capaz de destruir o planeta.",
+            "preco": "28.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "12",
+            "duracao": 143
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 12,
+        "fields": {
+            "nome": "Coringa",
+            "sinopse": "Um homem solitário enfrenta uma sociedade que o leva gradualmente a uma transformação violenta.",
+            "preco": "26.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "16",
+            "duracao": 122
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 13,
+        "fields": {
+            "nome": "Harry Potter",
+            "sinopse": "Um jovem descobre que é um bruxo e começa seus estudos em uma escola de magia.",
+            "preco": "23.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "10",
+            "duracao": 152
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 14,
+        "fields": {
+            "nome": "O Poderoso Chefão",
+            "sinopse": "Uma família mafiosa luta para manter seu poder e seus negócios.",
+            "preco": "24.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "16",
+            "duracao": 175
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 15,
+        "fields": {
+            "nome": "Mad Max",
+            "sinopse": "Em um futuro pós-apocalíptico, sobreviventes lutam por recursos em um mundo devastado.",
+            "preco": "25.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "16",
+            "duracao": 120
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 16,
+        "fields": {
+            "nome": "De Volta para o Futuro",
+            "sinopse": "Um jovem viaja acidentalmente ao passado e precisa encontrar uma forma de retornar ao seu tempo.",
+            "preco": "20.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "L",
+            "duracao": 116
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 17,
+        "fields": {
+            "nome": "Titanic",
+            "sinopse": "Um jovem casal se conhece durante a viagem inaugural de um famoso navio.",
+            "preco": "21.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "12",
+            "duracao": 194
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 18,
+        "fields": {
+            "nome": "O Exorcista",
+            "sinopse": "Uma família procura ajuda quando uma jovem começa a apresentar comportamentos inexplicáveis.",
+            "preco": "22.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "18",
+            "duracao": 132
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 19,
+        "fields": {
+            "nome": "Jogos Vorazes",
+            "sinopse": "Uma jovem é escolhida para participar de uma competição mortal transmitida para todo o país.",
+            "preco": "23.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "14",
+            "duracao": 142
+        }
+    },
+    {
+        "model": "cinema.filme",
+        "pk": 20,
+        "fields": {
+            "nome": "John Wick",
+            "sinopse": "Um antigo assassino profissional volta à ação após um acontecimento que muda sua vida.",
+            "preco": "27.90",
+            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "classificacao": "16",
+            "duracao": 101
         }
     }
 ]

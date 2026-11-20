@@ -37,14 +37,16 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "rest_framework",
-    "drf_spectacular",
+    'rest_framework',
+    'drf_spectacular',
+    'django_filters',
     
     'cinema.apps.CinemaConfig',
 ]
 
 REST_FRAMEWORK = {
     "DEFAULT_SCHEMA_CLASS": "drf_spectacular.openapi.AutoSchema",
+    "DEFAULT_FILTER_BACKENDS": ["django_filters.rest_framework.DjangoFilterBackend",],
 }
 
 SPECTACULAR_SETTINGS = {
@@ -52,6 +54,7 @@ SPECTACULAR_SETTINGS = {
     "DESCRIPTION": "API de filmes construída com Django REST Framework",
     "VERSION": "1.0.0",
 }
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

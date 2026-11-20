@@ -3,8 +3,6 @@ from rest_framework import serializers
 from .models import Filme
 from decimal import Decimal
 
-
-
 class FilmeSerializer(serializers.ModelSerializer):
     class Meta:
         model = Filme

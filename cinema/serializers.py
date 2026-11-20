@@ -24,5 +24,23 @@ class FilmeSerializer(serializers.ModelSerializer):
             raise serializers.ValidationError(
                 "O valor do ingresso deve ser maior que zero."
             )
+            
+        if value > Decimal("35"):
+            raise serializers.ValidationError(
+            "O valor do ingresso não pode ser maior que R$ 35."
+        )
+
+        return value
+    
+    def validate_duracao(self, value):
+        if value <= 0:
+            raise serializers.ValidationError(
+                "A duração deve ser maior que zero."
+            )
+            
+        if value > 300:
+            raise serializers.ValidationError(
+                "A duração não pode ser maior que 300 minutos."
+        )
 
         return value

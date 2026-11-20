@@ -2,7 +2,6 @@ from django_filters import rest_framework as filters
 
 from .models import Filme
 
-
 class FilmeFilter(filters.FilterSet):
     preco_minimo = filters.NumberFilter(
         field_name="preco",

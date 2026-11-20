@@ -5,6 +5,7 @@ from rest_framework.viewsets import ModelViewSet
 from .filters import FilmeFilter
 from .models import Filme
 from .serializers import FilmeSerializer
+from .pagination import FilmePagination
 
 
 class FilmeViewSet(ModelViewSet):
@@ -15,3 +16,4 @@ class FilmeViewSet(ModelViewSet):
     ordering_fields = ("nome", "preco")
     ordering = ("id",)
     search_fields = ("nome",)
+    pagination_class = FilmePagination

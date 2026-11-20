@@ -1,5 +1,6 @@
 from rest_framework.viewsets import ModelViewSet
-from django_filters.rest_framework import DjangoFilterBackend
+from django_filters.rest_framework import DjangoFilterBackend, OrderingFilter
+from rest_framework.viewsets import ModelViewSet
 
 from .filters import FilmeFilter
 from .models import Filme
@@ -11,3 +12,6 @@ class FilmeViewSet(ModelViewSet):
     serializer_class = FilmeSerializer
     filter_backends = (DjangoFilterBackend,)
     filterset_class = FilmeFilter
+    ordering_fields = ("nome", "preco")
+    ordering = ("id",)
+    search_fields = ("nome",)

@@ -6,7 +6,7 @@
             "nome": "Interestelar",
             "sinopse": "Um grupo de astronautas viaja pelo espaço em busca de um novo lar para a humanidade.",
             "preco": "29.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://7marte.com/wp-content/uploads/2014/11/Interstellar-cartaz-br-30set2014-696x1024.jpg",
             "classificacao": "10",
             "duracao": 169
         }
@@ -18,7 +18,7 @@
             "nome": "O Senhor dos Anéis",
             "sinopse": "Um hobbit recebe a missão de destruir um poderoso anel.",
             "preco": "24.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg",
             "classificacao": "12",
             "duracao": 178
         }
@@ -27,7 +27,7 @@
         "model": "cinema.filme",
         "pk": 3,
         "fields": {
-            "nome": "Panico",
+            "nome": "Panico 7",
             "sinopse": "Uma série de assassinatos começa a aterrorizar uma pequena cidade.",
             "preco": "19.90",
             "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
@@ -39,10 +39,10 @@
         "model": "cinema.filme",
         "pk": 4,
         "fields": {
-            "nome": "Homem-Aranha",
+            "nome": "Homem-Aranha: Um novo dia",
             "sinopse": "Um jovem ganha poderes extraordinários após ser picado por uma aranha.",
             "preco": "22.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://s2-gshow.glbimg.com/YEwqO_RZfvDhdT6I3NyDyYkuKB0=/0x0:1440x1920/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2026/Y/P/QVgqwESFKbXDWtDqqvGg/671244438-18575616190038906-3696831745575381725-n.jpg",
             "classificacao": "10",
             "duracao": 121
         }
@@ -51,10 +51,10 @@
         "model": "cinema.filme",
         "pk": 5,
         "fields": {
-            "nome": "Batman",
+            "nome": "The Batman",
             "sinopse": "Um herói mascarado combate o crime em uma cidade dominada pela corrupção.",
             "preco": "25.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://sm.ign.com/ign_br/cover/t/the-batman/the-batman_1zjm.jpg",
             "classificacao": "12",
             "duracao": 176
         }
@@ -66,7 +66,7 @@
             "nome": "Jurassic Park",
             "sinopse": "Um parque com dinossauros recriados geneticamente perde o controle de suas criaturas.",
             "preco": "21.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/I/81AGqBcpYOL._AC_UF894,1000_QL80_.jpg",
             "classificacao": "10",
             "duracao": 127
         }
@@ -78,7 +78,7 @@
             "nome": "Matrix",
             "sinopse": "Um homem descobre que a realidade em que vive é uma elaborada simulação.",
             "preco": "23.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://static.wixstatic.com/media/6175d2_4e7ef384d04942e39801ebc685767010~mv2.jpg/v1/fill/w_568,h_854,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6175d2_4e7ef384d04942e39801ebc685767010~mv2.jpg",
             "classificacao": "12",
             "duracao": 136
         }
@@ -90,7 +90,7 @@
             "nome": "Avatar",
             "sinopse": "Um ex-fuzileiro participa de uma missão em um planeta habitado por uma espécie alienígena.",
             "preco": "27.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/I/91N1lG+LBIS._AC_UF894,1000_QL80_.jpg",
             "classificacao": "12",
             "duracao": 162
         }
@@ -102,7 +102,7 @@
             "nome": "O Rei Leão",
             "sinopse": "Um jovem leão precisa assumir seu lugar como rei após uma grande tragédia.",
             "preco": "18.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BNzJmNDVmNTAtODI3Mi00Y2Y2LTg4MDItNGI0ODE4NTQ1ZmNlXkEyXkFqcGc@._V1_.jpg",
             "classificacao": "L",
             "duracao": 118
         }
@@ -114,7 +114,7 @@
             "nome": "Toy Story",
             "sinopse": "Brinquedos ganham vida quando seus donos não estão por perto.",
             "preco": "17.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/S/pv-target-images/5fae7e63fc0a7efe02eded1a4c27ee862f245f2489bbdd168008a1e7c61f8c7e.jpg",
             "classificacao": "L",
             "duracao": 81
         }
@@ -123,10 +123,10 @@
         "model": "cinema.filme",
         "pk": 11,
         "fields": {
-            "nome": "Vingadores",
+            "nome": "Vingadores: DOOMSDAY",
             "sinopse": "Um grupo de heróis se une para enfrentar uma ameaça capaz de destruir o planeta.",
             "preco": "28.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BNmM4YTM5NjYtMjNhZi00OGNjLWIxNzUtODRmNWU0NjZkOWQ3XkEyXkFqcGc@._V1_.jpg",
             "classificacao": "12",
             "duracao": 143
         }
@@ -138,7 +138,7 @@
             "nome": "Coringa",
             "sinopse": "Um homem solitário enfrenta uma sociedade que o leva gradualmente a uma transformação violenta.",
             "preco": "26.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/S/pv-target-images/631cd803506fa603bcd69812b9ba6bbd8fa769d79f59fa78b69825d3c5b448c1.jpg",
             "classificacao": "16",
             "duracao": 122
         }
@@ -150,7 +150,7 @@
             "nome": "Harry Potter",
             "sinopse": "Um jovem descobre que é um bruxo e começa seus estudos em uma escola de magia.",
             "preco": "23.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD7KIA91kjhS5h3N-Kz9zcw6nYgqYJ2-TiEahahwsQlw&s=10",
             "classificacao": "10",
             "duracao": 152
         }
@@ -162,7 +162,7 @@
             "nome": "O Poderoso Chefão",
             "sinopse": "Uma família mafiosa luta para manter seu poder e seus negócios.",
             "preco": "24.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BYTRmMjkwYzYtYTRiMi00NDJjLTk1NjctMDA3MjY2ZWIyMGQ5XkEyXkFqcGc@._V1_.jpg",
             "classificacao": "16",
             "duracao": 175
         }
@@ -174,7 +174,7 @@
             "nome": "Mad Max",
             "sinopse": "Em um futuro pós-apocalíptico, sobreviventes lutam por recursos em um mundo devastado.",
             "preco": "25.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BZDJkNzQ2ZGMtZmI5YS00NzUxLThmNGEtZmE2OWY0MzE1NGM3XkEyXkFqcGc@._V1_.jpg",
             "classificacao": "16",
             "duracao": 120
         }
@@ -186,7 +186,7 @@
             "nome": "De Volta para o Futuro",
             "sinopse": "Um jovem viaja acidentalmente ao passado e precisa encontrar uma forma de retornar ao seu tempo.",
             "preco": "20.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://i.pinimg.com/originals/d5/96/38/d59638e7b28d6b95a5969daca5c286b3.png",
             "classificacao": "L",
             "duracao": 116
         }
@@ -198,7 +198,7 @@
             "nome": "Titanic",
             "sinopse": "Um jovem casal se conhece durante a viagem inaugural de um famoso navio.",
             "preco": "21.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://images.seeklogo.com/logo-png/38/1/titanic-logo-png_seeklogo-381706.png",
             "classificacao": "12",
             "duracao": 194
         }
@@ -210,7 +210,7 @@
             "nome": "O Exorcista",
             "sinopse": "Uma família procura ajuda quando uma jovem começa a apresentar comportamentos inexplicáveis.",
             "preco": "22.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://boxloja-std-cdn-r2.minhaboxloja.com/lojas/a4ve/produtos/5fb364c0-faad-4db1-854b-b8fc6f0edf1d.png",
             "classificacao": "18",
             "duracao": 132
         }
@@ -222,7 +222,7 @@
             "nome": "Jogos Vorazes",
             "sinopse": "Uma jovem é escolhida para participar de uma competição mortal transmitida para todo o país.",
             "preco": "23.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://s2-gshow.glbimg.com/k0IDanVDRYwLrkn231UgbPH1Hvk=/0x0:960x1200/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2025/E/B/VPfgocRbWOKPxe0gSfWg/hungergames-sotr-4x5-social-1080x1350pxls-latam-brazil.jpg",
             "classificacao": "14",
             "duracao": 142
         }
@@ -234,7 +234,7 @@
             "nome": "John Wick",
             "sinopse": "Um antigo assassino profissional volta à ação após um acontecimento que muda sua vida.",
             "preco": "27.90",
-            "imagem": "https://ingresso-a.akamaihd.net/prd/img/movie/panico-7/30da3b1d-7b38-492c-85c3-790fcb5dbb7f.webp",
+            "imagem": "https://m.media-amazon.com/images/S/pv-target-images/a1b451714d3a4959c9c2e2e554cb8b4760b8e17fbe5c6210672957d63e6f9fb4.jpg",
             "classificacao": "16",
             "duracao": 101
         }
